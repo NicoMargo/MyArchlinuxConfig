@@ -1,0 +1,49 @@
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#00ff00'
+
+# Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#ff5555'
+    green:   '#50fa7b'
+    yellow:  '#f1fa8c'
+    blue:    '#caa9fa'
+    magenta: '#ff79c6'
+    cyan:    '#8be9fd'
+    white:   '#ffffff'
+
+  # Bright colors
+  bright:
+    black:   '#ffffff'
+    red:     '#ff6e67'
+    green:   '#5af78e'
+    yellow:  '#f4f99d'
+    blue:    '#caa9fa'
+    magenta: '#ff92d0'
+    cyan:    '#9aedfe'
+    white:   '#ffffff' 
+
+font:
+  normal:
+    family: TerminessTTF Nerd Font Mono
+    style: Default
+
+  bold:
+    family: TerminessTTF Nerd Font Mono 
+    style: Bold
+
+  italic:
+    family: TerminessTTF Nerd Font Mono
+    style: Italic
+
+  bold_italic:
+    family: JetBrains Mono Nerd Font
+    style: Bold Italic
+
+  size: 16
+
+window: 
+  opacity: 0.5
+

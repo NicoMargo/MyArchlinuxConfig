@@ -1,0 +1,28 @@
+colors:
+  primary:
+    background: '#111111'
+font:
+  normal:
+    family: JetBrains Mono Nerd Font
+    style: Default
+
+  bold:
+    family: JetBrains Mono Nerd Font
+    style: Bold
+
+  italic:
+    family: JetBrains Mono Nerd Font
+    style: Italic
+
+  bold_italic:
+    family: JetBrains Mono Nerd Font
+    style: Bold Italic
+
+  size: 10
+
+window:
+  dynamic_padding: true
+  padding:
+    x: 8
+    y: 8
+  opacity: 0.9 
