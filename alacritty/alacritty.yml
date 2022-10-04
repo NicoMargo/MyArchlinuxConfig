@@ -39,11 +39,14 @@ font:
     style: Italic
 
   bold_italic:
-    family: JetBrains Mono Nerd Font
+    family: TerminessTTF Nerd Font Mono
     style: Bold Italic
 
-  size: 16
+  size: 23
 
 window: 
   opacity: 0.5
+  padding: 
+    x: 12
+    y: 12
 
