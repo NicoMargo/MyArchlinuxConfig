@@ -1,5 +1,7 @@
 #! /bin/sh
 
+# xrandr --output HDMI-1 --mode 1920x1080 --rate 60 
+
 picom -b &
 feh --bg-fill .config/archwave.png
 wmname LG3D &
