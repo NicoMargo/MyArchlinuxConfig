@@ -15,7 +15,7 @@ alt + f
 	firefox
 
 #flameshot
-Print
+alt + p
 	flameshot gui
 
 
